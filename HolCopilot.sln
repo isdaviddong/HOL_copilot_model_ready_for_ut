@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webtest", "HOL_copilot\webtest.csproj", "{AE72E326-BB27-4EDC-B212-6536EDE7FB4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HOL_copilot_test", "HOL_copilot_test\HOL_copilot_test.csproj", "{5C2626DA-D1E1-4969-97C6-8652F0C34200}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE72E326-BB27-4EDC-B212-6536EDE7FB4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE72E326-BB27-4EDC-B212-6536EDE7FB4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE72E326-BB27-4EDC-B212-6536EDE7FB4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE72E326-BB27-4EDC-B212-6536EDE7FB4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C2626DA-D1E1-4969-97C6-8652F0C34200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C2626DA-D1E1-4969-97C6-8652F0C34200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C2626DA-D1E1-4969-97C6-8652F0C34200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C2626DA-D1E1-4969-97C6-8652F0C34200}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
